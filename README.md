@@ -35,22 +35,8 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 
 ## 🤝 **Cómo Contribuir**
 
-¡Nos encantaría contar con tu participación! Aquí tienes cómo puedes contribuir:
-
-1. **Subir consignas**:  
-   - Si tienes una consigna de un trabajo práctico, súbela incluso si no tienes la solución.  
-   - Crea un archivo de texto o Markdown con la consigna (por ejemplo: `MateriaNombre-Consigna.md`).  
-   - Haz un Pull Request para añadirla al repositorio correspondiente.
-
-2. **Subir soluciones**:  
-   - Si tienes la solución, súbela junto con la consigna.  
-   - Asegúrate de incluir comentarios en tu código y, si puedes, una explicación en un archivo `README.md`.
-
-3. **Mejorar o completar trabajos existentes**:  
-   - Encuentra un trabajo práctico que tenga solo la consigna y aporta tu solución.  
-   - O mejora una solución existente con mejores explicaciones o optimización del código.
-
-**¿No sabes cómo hacer un Pull Request?** Mira nuestra guía en el archivo [`CONTRIBUTING.md`](CONTRIBUTING.md).
+¡Nos encantaría contar con tu participación!
+Mira nuestra guía en el archivo [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
 
