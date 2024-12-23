@@ -24,7 +24,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 2. [Paradigmas de Programación - coliseo](https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo)  
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Javascript - Node.js)*
    - **Descripcion-Tp:** Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.
-
+3. [Algoritmos y programacion - colapinto](https://github.com/DelosCode/unpaz-algoritmos-parcial1-colapinto)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
+   - **Descripcion-Tp:** se registra los tiempos de ensayo de Franco Colapinto en 5 vueltas consecutivas, junto con el consumo de combustible.
 ### 📗 **Tecnicatura en Comercio Electronico**
 
 1. prox... *(Solo consigna, solución pendiente.)* 
