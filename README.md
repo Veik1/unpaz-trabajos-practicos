@@ -27,6 +27,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 3. [Algoritmos y programacion - colapinto](https://github.com/DelosCode/unpaz-algoritmos-parcial1-colapinto)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
    - **Descripcion-Tp:** se registra los tiempos de ensayo de Franco Colapinto en 5 vueltas consecutivas, junto con el consumo de combustible.
+4. [Algoritmos y programacion - CRUD](https://github.com/DelosCode/unpaz-algoritmos-parcial2-CRUD)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
+   - **Descripcion-Tp:** TDA_Producto_parcial con los métodos correspondientes a Eliminar producto y Modificar precio de producto.
 ### 📗 **Tecnicatura en Comercio Electronico**
 
 1. prox... *(Solo consigna, solución pendiente.)* 
@@ -36,8 +39,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 ---
 
 ## 🤝 **Cómo Contribuir**
+⭐ Puedes ayudar compartiendo y dando estrellitas a los repositorios
 
-¡Nos encantaría contar con tu participación!
+¡Tambien nos encantaría contar con tu participación!
 Mira nuestra guía en el archivo [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
