@@ -30,6 +30,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 4. [Algoritmos y programacion - CRUD](https://github.com/DelosCode/unpaz-algoritmos-parcial2-CRUD)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
    - **Descripcion-Tp:** TDA_Producto_parcial con los métodos correspondientes a Eliminar producto y Modificar precio de producto.
+5. [Algoritmos y programacion - TDA](https://github.com/DelosCode/unpaz-algoritmos-parcial1-TDA)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
+   - **Descripcion-Tp:** Simulación del Proceso de Fabricación de Números de Metal: estructuras de datos a utilizar; Pilas, colas, listasordenadas.
 ### 📗 **Tecnicatura en Comercio Electronico**
 
 1. prox... *(Solo consigna, solución pendiente.)* 
