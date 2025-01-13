@@ -33,6 +33,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 5. [Algoritmos y programacion - TDA](https://github.com/DelosCode/unpaz-algoritmos-parcial1-TDA)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
    - **Descripcion-Tp:** Simulación del Proceso de Fabricación de Números de Metal: estructuras de datos a utilizar; Pilas, colas, listasordenadas.
+6. [Programacion orientada a objetos - Sistema reservas](https://github.com/Veik1/TP-POO)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Java)*
+   - **Descripcion-Tp:** sistema de reserva - buques
 ### 📗 **Tecnicatura en Comercio Electronico**
 
 1. prox... *(Solo consigna, solución pendiente.)* 
