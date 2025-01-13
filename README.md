@@ -36,7 +36,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 6. [Programacion orientada a objetos - Sistema reservas](https://github.com/Veik1/TP-POO)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Java)*
    - **Descripcion-Tp:** sistema de reserva - buques
-7. [Laboratorio de Programación y Lenguajes](https://github.com/Veik1/TP-LPyL-CoD)
+7. [Laboratorio de Programación y Lenguajes - Plan de estudio](https://github.com/Veik1/TP-LPyL-CoD)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en nodejs - sequelize - postman)*
    - **Descripcion-Tp:** API plan de estudio
 
