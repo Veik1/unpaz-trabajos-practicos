@@ -20,21 +20,10 @@
 
 Sigue estos pasos para contribuir de manera sencilla:
 
-### 1. Haz un fork del repositorio
-Haz clic en el botón "Fork" en la esquina superior derecha del repositorio para crear tu propia copia.
+### 1. Haz un repositorio
+con el nombre de la materia de titulo o en descripcion, añadiendo algun nombre del trabajo, como por ejemplo "algoritmos-y-programacion-TDA"
 
-### 2. Clona tu fork
-Copia tu fork a tu máquina local con el siguiente comando:
-```bash
-git clone git clone https://github.com/tu-usuario/UNPAZ-Trabajos-Practicos.git
-```
-
-### 3. Crea una rama con el nombre de la materia
-Cuando estés listo para subir tu aporte, crea una rama nueva. El nombre de la rama debe ser el nombre de la materia a la que pertenece el trabajo práctico, por ejemplo: `paradigmas-programacion`.
-```bash
-git checkout -b paradigmas-programacion
-```
-### 4. Sube los archivos necesarios
+### 2. Sube los archivos necesarios
 Añade los archivos relacionados con el trabajo práctico, como:
 
 - Un archivo `README.md` con la descripción o consigna del trabajo práctico.
@@ -45,21 +34,15 @@ Añade los archivos relacionados con el trabajo práctico, como:
 git add .
 ```
 
-### 5. Realiza un commit
+### 3. Realiza un commit
 Guarda tus cambios describiendo qué hiciste, como por ejemplo:  
 *"Añadida consigna y solución del TP1 de Paradigmas de Programación."*
 
 ```bash
 git commit -m "Añadida consigna y solución del TP1 de Paradigmas de Programación"
 ```
-
-### 6. Sube tu rama al repositorio de tu fork
-Envía los cambios que hiciste a tu copia del repositorio.
-```bash
-git push origin paradigmas-programacion
-```
-### 7. Crea un Pull Request
-Desde tu copia del repositorio, solicita que integremos tu contribución. Asegúrate de explicar claramente qué estás aportando en el mensaje del Pull Request.
+### 4. Abre una issues
+Sube el link del repositorio añadiendo alguna descripcion. Al rededor de 48hrs se vera reflejado en el readme de este repositorio.
 
 ---
 
