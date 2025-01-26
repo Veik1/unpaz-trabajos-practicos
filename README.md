@@ -39,6 +39,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 7. [Laboratorio de Programación y Lenguajes - Plan de estudio](https://github.com/Veik1/TP-LPyL-CoD)
    - **Estado:** ¡Resuelto! 🎉 *(solución en nodejs - sequelize - postman)*
    - **Descripcion-Tp:** API plan de estudio
+8. [Algoritmos y programacion - Turnos TDA](https://github.com/DelosCode/unpaz-algoritmos-recu-TDA)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Python)*
+   - **Descripcion-Tp:** dos ejercicios; 1 turnos tda, 2 lista ordenada
 
 ### 📗 **Tecnicatura en Comercio Electronico**
 
