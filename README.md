@@ -1,6 +1,6 @@
-# 📘 UNPAZ - Trabajos Prácticos y Soluciones
+# 📘 UNPAZ LGTI - Trabajos Prácticos y Ejecicios
 
-¡Bienvenido a **DelosCode**, el espacio de colaboración para estudiantes de la **Universidad Nacional de José Clemente Paz (UNPAZ)**! Este repositorio principal organiza y centraliza trabajos prácticos y sus soluciones para materias de distintas carreras. **Incluso si no tienes la solución, puedes contribuir subiendo solo la consigna.**
+¡Bienvenido a **DelosCode**, el espacio de colaboración para estudiantes de la **Universidad Nacional de José Clemente Paz (UNPAZ)**! Este repositorio principal organiza y centraliza trabajos prácticos, soluciones y ejercicios para las distintas materias de LGTI. **Incluso si no tienes la solución, puedes contribuir subiendo solo la consigna.**
 
 ![DELOS CODE](https://badgen.net/badge/DELOS/CODE?color=cyan)
 ![DELOS](https://badgen.net/badge/DELOS/UNPAZ)
@@ -8,7 +8,8 @@
 
 ## 🌟 **¿Qué encontrarás aquí?**
 
-- **Consignas de trabajos prácticos** organizadas por materia y carrera.
+- **Ejercicios** para practicar tus habilidades.
+- **Consignas de trabajos prácticos** organizadas por materia.
 - **Soluciones detalladas** con explicaciones paso a paso (si están disponibles).
 - **Un espacio para contribuir**, ya sea con resoluciones o simplemente consignas.
 
@@ -44,12 +45,6 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 8. [Algoritmos y programacion - Turnos TDA](https://github.com/DelosCode/unpaz-algoritmos-recu-TDA)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Python)*
    - **Descripcion-Tp:** dos ejercicios; 1 turnos tda, 2 lista ordenada
-
-### 📗 **Tecnicatura en Comercio Electronico**
-
-1. prox... *(Solo consigna, solución pendiente.)* 
-
-*(¿Tienes más consignas o soluciones? ¡Súbelas y colabora con otros estudiantes!)*
 
 ---
 
