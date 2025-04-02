@@ -56,14 +56,6 @@ Mira nuestra guía en el archivo [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
 
-## 📣 **Contacto**
-
-¿Tienes dudas, sugerencias o simplemente quieres participar?  
-- Únete a nuestra comunidad en **GitHub Discussions** *(próximamente)*.  
-- Contáctanos por email *(pendiente de definir)*.
-
----
-
 ## 🎓 **Agradecimientos**
 
 Agradecemos a todos los estudiantes, docentes y colaboradores que hacen posible este proyecto. **Tu aporte ayuda a que más estudiantes tengan éxito en su aprendizaje.**
