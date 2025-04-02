@@ -3,7 +3,7 @@
 ¡Bienvenido a **DelosCode**, el espacio de colaboración para estudiantes de la **Universidad Nacional de José Clemente Paz (UNPAZ)**! Este repositorio principal organiza y centraliza trabajos prácticos, soluciones y ejercicios para las distintas materias de LGTI. **Incluso si no tienes la solución, puedes contribuir subiendo solo la consigna.**
 
 ![DELOS CODE](https://badgen.net/badge/DELOS/CODE?color=cyan)
-![DELOS](https://badgen.net/badge/DELOS/UNPAZ)
+![DELOS](https://badgen.net/badge/Universidad/UNPAZ)
 ---
 
 ## 🌟 **¿Qué encontrarás aquí?**
