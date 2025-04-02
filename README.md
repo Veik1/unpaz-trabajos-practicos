@@ -51,6 +51,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 10. [Laboratorio de programacion y lenguajes - Simulador de vehiculo](https://github.com/AxelIbarrola/Simulador-de-Vehiculo)
     - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
     - **Descripcion-Tp:** Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.
+11. [Trabajo de Campo - Personas App](https://github.com/Martincho83/PersonasApp)
+    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Typescript - CSS - HTML - React )*
+    - **Descripcion-Tp:** Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀
 
 ---
 
