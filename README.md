@@ -45,6 +45,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 8. [Algoritmos y programacion - Turnos TDA](https://github.com/DelosCode/unpaz-algoritmos-recu-TDA)
    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Python)*
    - **Descripcion-Tp:** dos ejercicios; 1 turnos tda, 2 lista ordenada
+9. [Laboratorio de programacion y lenguajes - Gestion de proyectos](https://github.com/W3-Briel/unpaz_gestion_proyecto_extra)
+   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
+   - **Descripcion-Tp:** El costo en dinero de una tarea es igual al tiempo de la tarea multiplicado por un valor común y configurable para todas las complejidades. Además cada complejidad puede agregarle un porcentaje extra que se suma al costo.
+10. [Laboratorio de programacion y lenguajes - Simulador de vehiculo](https://github.com/AxelIbarrola/Simulador-de-Vehiculo)
+    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
+    - **Descripcion-Tp:** Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.
 
 ---
 
