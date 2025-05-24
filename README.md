@@ -54,7 +54,9 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 11. [Trabajo de Campo - Personas App](https://github.com/Martincho83/PersonasApp)
     - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Typescript - CSS - HTML - React )*
     - **Descripcion-Tp:** Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀
-
+12. [Programacion orientada a objetos - Registro ventas](https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas)
+    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Java )*
+    - **Descripcion-Tp:** programa para registrar las ventas realizadas en un comercio durante un día.
 ---
 
 ## 🤝 **Cómo Contribuir**
