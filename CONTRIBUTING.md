@@ -7,10 +7,5 @@ Sube el link del repositorio añadiendo alguna descripcion. Al rededor de 48hrs 
 
 ---
 
-## ❓ ¿Tienes dudas?
-Si tienes problemas para contribuir o no sabes por dónde empezar, abre un **Issue** en este repositorio. ¡Estamos aquí para ayudarte!
-
----
-
 ## ✨ Agradecimientos
 Gracias por contribuir. Cada aporte ayuda a fortalecer nuestra comunidad en la **UNPAZ**. ¡Seguimos aprendiendo juntos! 💙
