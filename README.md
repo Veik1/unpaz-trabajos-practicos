@@ -52,11 +52,17 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
     - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
     - **Descripcion-Tp:** Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.
 11. [Trabajo de Campo - Personas App](https://github.com/Martincho83/PersonasApp)
-    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Typescript - CSS - HTML - React )*
+    - **Estado:** ¡Completo! ✨
     - **Descripcion-Tp:** Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀
 12. [Programacion orientada a objetos - Registro ventas](https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas)
     - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Java )*
     - **Descripcion-Tp:** programa para registrar las ventas realizadas en un comercio durante un día.
+13. [Trabajo de campo - Sistema de gestion de reservas de vuelos](https://github.com/Veik1/reserva-aviones)
+    - **Estado:** ¡Completo! ✨
+    - **Descripcion-Tp:** programa para gestionar vuelos; backend + frotend + docker.
+14. [Laboratorio de software - Reserva de hoteles](https://github.com/Veik1/reserva-hoteles)
+    - **Estado:** ¡Completo! ✨
+    - **Descripcion-Tp:** Proyecto de gestión de reservas de hoteles. Stack: Java 17 + Spring Boot 3 + PostgreSQL + Vue 3 + Pinia + Vite.
 ---
 
 ## 🤝 **Cómo Contribuir**
