@@ -17,52 +17,35 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 
 ---
 
-## 📂 **Índice de Trabajos Prácticos**
+## **Licenciatura en Gestion de Tecnologias de la Informacion**
+<table>
+   <tr>
+      <td> ⬇ Paradigmas de Programación<b> </b> </td>
+   </tr>
+      <table>
+         <thead>
+            <tr>
+               <th>Titulo</th>
+               <th>Descripcion</th>
+               <th>repositorio</th>
+               <th>Autores</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>ferrovia</td>
+               <td>Una administradora ferroviaria necesita una aplicación que le ayude a manejar las formaciones que tiene disponibles en distintos depósitos.</td>
+               <td>
+                  <a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" alt="link al repositorio">link</a>
+               </td>
+               <td>
+                  <a href="#"> <img src="https://github.com/w3-briel.png" alt="Foto de perfil" style="border-radius:50%; width:100px; height:100px;"> </a>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+</table>
 
-### 📘 **Licenciatura en Gestion de Tecnologias de la Informacion**
-
-1. [Paradigmas de Programación - ferrovia](https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes)
-   - **Estado:** ¡Resuelto! 🎉 *(Incluye la consigna y la solución en Javascript - Node.js)* 
-   - **Descripcion-Tp:** Una administradora ferroviaria necesita una aplicación que le ayude a manejar las formaciones que tiene disponibles en distintos depósitos.
-2. [Paradigmas de Programación - coliseo](https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo)  
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Javascript - Node.js)*
-   - **Descripcion-Tp:** Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.
-3. [Algoritmos y programacion - colapinto](https://github.com/DelosCode/unpaz-algoritmos-parcial1-colapinto)
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
-   - **Descripcion-Tp:** se registra los tiempos de ensayo de Franco Colapinto en 5 vueltas consecutivas, junto con el consumo de combustible.
-4. [Algoritmos y programacion - CRUD](https://github.com/DelosCode/unpaz-algoritmos-parcial2-CRUD)
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
-   - **Descripcion-Tp:** TDA_Producto_parcial con los métodos correspondientes a Eliminar producto y Modificar precio de producto.
-5. [Algoritmos y programacion - TDA](https://github.com/DelosCode/unpaz-algoritmos-parcial1-TDA)
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solución en Python)*
-   - **Descripcion-Tp:** Simulación del Proceso de Fabricación de Números de Metal: estructuras de datos a utilizar; Pilas, colas, listasordenadas.
-6. [Programacion orientada a objetos - Sistema reservas](https://github.com/Veik1/TP-POO)
-   - **Estado:** ¡Resuelto! 🎉 *(solución en Java)*
-   - **Descripcion-Tp:** sistema de reserva - buques
-7. [Laboratorio de Programación y Lenguajes - Plan de estudio](https://github.com/Veik1/TP-LPyL-CoD)
-   - **Estado:** ¡Resuelto! 🎉 *(solución en nodejs - sequelize - postman)*
-   - **Descripcion-Tp:** API plan de estudio
-8. [Algoritmos y programacion - Turnos TDA](https://github.com/DelosCode/unpaz-algoritmos-recu-TDA)
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Python)*
-   - **Descripcion-Tp:** dos ejercicios; 1 turnos tda, 2 lista ordenada
-9. [Laboratorio de programacion y lenguajes - Gestion de proyectos](https://github.com/W3-Briel/unpaz_gestion_proyecto_extra)
-   - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
-   - **Descripcion-Tp:** El costo en dinero de una tarea es igual al tiempo de la tarea multiplicado por un valor común y configurable para todas las complejidades. Además cada complejidad puede agregarle un porcentaje extra que se suma al costo.
-10. [Laboratorio de programacion y lenguajes - Simulador de vehiculo](https://github.com/AxelIbarrola/Simulador-de-Vehiculo)
-    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Javascrpt - Nodejs)*
-    - **Descripcion-Tp:** Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.
-11. [Trabajo de Campo - Personas App](https://github.com/Martincho83/PersonasApp)
-    - **Estado:** ¡Completo! ✨
-    - **Descripcion-Tp:** Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀
-12. [Programacion orientada a objetos - Registro ventas](https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas)
-    - **Estado:** ¡Resuelto! 🎉 *(Consigna y solucion en Java )*
-    - **Descripcion-Tp:** programa para registrar las ventas realizadas en un comercio durante un día.
-13. [Trabajo de campo - Sistema de gestion de reservas de vuelos](https://github.com/Veik1/reserva-aviones)
-    - **Estado:** ¡Completo! ✨
-    - **Descripcion-Tp:** programa para gestionar vuelos; backend + frotend + docker.
-14. [Laboratorio de software - Reserva de hoteles](https://github.com/Veik1/reserva-hoteles)
-    - **Estado:** ¡Completo! ✨
-    - **Descripcion-Tp:** Proyecto de gestión de reservas de hoteles. Stack: Java 17 + Spring Boot 3 + PostgreSQL + Vue 3 + Pinia + Vite.
 ---
 
 ## 🤝 **Cómo Contribuir**
