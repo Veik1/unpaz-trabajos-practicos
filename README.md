@@ -34,13 +34,13 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>ferrovia</td>
          <td>Una administradora ferroviaria necesita una aplicación que le ayude a manejar las formaciones que tiene disponibles en distintos depósitos.</td>
          <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>coliseo</td>
          <td>Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.</td>
          <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
    </tbody>
 </table>
@@ -60,25 +60,25 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>colapinto</td>
          <td>se registra los tiempos de ensayo de Franco Colapinto en 5 vueltas consecutivas, junto con el consumo de combustible.</td>
          <td><a href="https://github.com/DelosCode/unpaz-algoritmos-parcial1-colapinto" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>CRUD</td>
          <td>TDA_Producto_parcial con los métodos correspondientes a Eliminar producto y Modificar precio de producto.</td>
          <td><a href="https://github.com/DelosCode/unpaz-algoritmos-parcial2-CRUD" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>TDA</td>
          <td>Simulación del Proceso de Fabricación de Números de Metal: estructuras de datos a utilizar; Pilas, colas, listasordenadas.</td>
          <td><a href="https://github.com/DelosCode/unpaz-algoritmos-parcial1-TDA" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Turnos TDA</td>
          <td>dos ejercicios; 1 turnos tda, 2 lista ordenada</td>
          <td><a href="https://github.com/DelosCode/unpaz-algoritmos-recu-TDA" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="#"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
    </tbody>
 </table>
@@ -98,13 +98,17 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Sistema reservas</td>
          <td>sistema de reserva - buques</td>
          <td><a href="https://github.com/Veik1/TP-POO" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td>
+            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/nachoji"><img src="https://github.com/nachoji.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/c137nc"><img src="https://github.com/c137nc.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+         </td>
       </tr>
       <tr>
          <td>Registro ventas</td>
          <td>programa para registrar las ventas realizadas en un comercio durante un día.</td>
          <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
    </tbody>
 </table>
@@ -124,19 +128,24 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Gestion de proyectos</td>
          <td>El costo en dinero de una tarea es igual al tiempo de la tarea multiplicado por un valor común y configurable para todas las complejidades. Además cada complejidad puede agregarle un porcentaje extra que se suma al costo.</td>
          <td><a href="https://github.com/W3-Briel/unpaz_gestion_proyecto_extra" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Simulador de vehiculo</td>
          <td>Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.</td>
          <td><a href="https://github.com/AxelIbarrola/Simulador-de-Vehiculo" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Plan de estudio</td>
          <td>API plan de estudio</td>
          <td><a href="https://github.com/Veik1/TP-LPyL-CoD" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td>
+            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/ignacio-leonel"><img src="https://github.com/ignacio-leonel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/sofialvez"><img src="https://github.com/sofialvez.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/SergioRomero92"><img src="https://github.com/SergioRomero92.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -156,7 +165,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Reserva de hoteles</td>
          <td>Proyecto de gestión de reservas de hoteles. Stack: Java 17 + Spring Boot 3 + PostgreSQL + Vue 3 + Pinia + Vite.</td>
          <td><a href="https://github.com/Veik1/reserva-hoteles" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
    </tbody>
 </table>
@@ -176,13 +185,19 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Personas App</td>
          <td>Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀</td>
          <td><a href="https://github.com/Martincho83/PersonasApp" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/Martincho83"><img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Sistema de gestion de reservas de vuelos</td>
          <td>programa para gestionar vuelos; backend + frotend + docker.</td>
          <td><a href="https://github.com/Veik1/reserva-aviones" title="link al repositorio">link</a></td>
-         <td><a href="#"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td>
+            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/Martincho83"><img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/Gonzy1992"><img src="https://github.com/Gonzy1992.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/ngi133"><img src="https://github.com/ngi133.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/San-romero"><img src="https://github.com/San-romero.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+         </td>
       </tr>
    </tbody>
 </table>
