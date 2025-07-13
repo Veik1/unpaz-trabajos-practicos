@@ -74,6 +74,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>coliseo</td>
+         <td>Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.</td>
+         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
@@ -135,12 +141,6 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>El costo en dinero de una tarea es igual al tiempo de la tarea multiplicado por un valor común y configurable para todas las complejidades. Además cada complejidad puede agregarle un porcentaje extra que se suma al costo.</td>
          <td><a href="https://github.com/W3-Briel/unpaz_gestion_proyecto_extra" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
-      </tr>
-      <tr>
-         <td>Simulador de vehiculo</td>
-         <td>Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.</td>
-         <td><a href="https://github.com/AxelIbarrola/Simulador-de-Vehiculo" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Plan de estudio</td>
