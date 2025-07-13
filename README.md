@@ -74,12 +74,6 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
-      <tr>
-         <td>coliseo</td>
-         <td>Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.</td>
-         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
-      </tr>
    </tbody>
 </table>
 
