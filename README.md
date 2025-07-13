@@ -122,6 +122,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Validar-Contras" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>Gestion de envios</td>
+         <td>Una empresa de logística necesita desarrollar un sistema que gestione envíos de paquetes entre distintas ciudades. Cada envío contiene información sobre el cliente, el tipo de servicio (urgente o común), el peso del paquete y la ciudad de destino.</td>
+         <td><a href="https://github.com/W3-Briel/unpaz-POO-Gestion-Envios" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
