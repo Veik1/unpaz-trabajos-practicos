@@ -19,34 +19,8 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 
 ## **Licenciatura en Gestion de Tecnologias de la Informacion**
 
-### ⬇ ***Paradigmas de Programación***
-<table>
-   <thead>
-      <tr>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Repositorio</th>
-      <th>Autores</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>ferrovia</td>
-         <td>Una administradora ferroviaria necesita una aplicación que le ayude a manejar las formaciones que tiene disponibles en distintos depósitos.</td>
-         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
-      </tr>
-      <tr>
-         <td>coliseo</td>
-         <td>Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.</td>
-         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
-      </tr>
-   </tbody>
-</table>
-
 ### ⬇ ***Algoritmos y programacion***
-<table>
+<table id=6008>
    <thead>
       <tr>
       <th>Título</th>
@@ -83,8 +57,34 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
    </tbody>
 </table>
 
+### ⬇ ***Paradigmas de Programación***
+<table id=6015>
+   <thead>
+      <tr>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Repositorio</th>
+      <th>Autores</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>ferrovia</td>
+         <td>Una administradora ferroviaria necesita una aplicación que le ayude a manejar las formaciones que tiene disponibles en distintos depósitos.</td>
+         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-trenes" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
+         <td>coliseo</td>
+         <td>Adentrate en esta gran aventura dentro del coliseo romano, en donde se libraran feroces batallas entre los mirmillones y los dimachaerus.</td>
+         <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+   </tbody>
+</table>
+
 ### ⬇ ***Programacion orientada a objetos***
-<table>
+<table id=6018>
    <thead>
       <tr>
       <th>Título</th>
@@ -110,11 +110,23 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>Gestion kioskos</td>
+         <td>menu de gestion de kiosco, lectura de archivo y dto.</td>
+         <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
+         <td>Validador de contraseñas</td>
+         <td>Trabajas en el área de logística de una empresa de e-commerce y debes implementar un sistema para validar direcciones de envío según nuevos estándares de calidad.</td>
+         <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Validar-Contras" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
 ### ⬇ ***Laboratorio de programacion y lenguajes***
-<table>
+<table id=6017>
    <thead>
       <tr>
       <th>Título</th>
@@ -147,11 +159,39 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             <a href="https://github.com/SergioRomero92"><img src="https://github.com/SergioRomero92.png" alt="Foto de perfil" width="50px" height="50px"/></a>
          </td>
       </tr>
+      <tr>
+         <td>Validacion de productos</td>
+         <td>Un servidor Express con un endpoint /productos/filtrar que filtre productos de un archivo productos.json, el cual tiene la siguiente estructura</td>
+         <td><a href="https://github.com/W3-Briel/unpaz-LPL-validacion-productos" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         </td>
+      </tr>
+      <tr>
+         <td>Filtros de personajes</td>
+         <td>analizador lexíco - Filtros dinámicos sobre un conjunto de personajes</td>
+         <td><a href="https://github.com/W3-Briel/unpaz-LPL-filtros_personajes" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         </td>
+      </tr>
+      <tr>
+         <td>Sistema de Validación de Direcciones para Envíos</td>
+         <td>Trabajas en el área de logística de una empresa de e-commerce y debes implementar un sistema para validar direcciones de envío según nuevos estándares de calidad. - Crear un endpoint que identifique direcciones que cumplan TODAS las reglas de validación para envíos prioritarios (las cuales pueden cambiar periódicamente).</td>
+         <td><a href="https://github.com/W3-Briel/practica-parcial-lab" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         </td>
+      </tr>
+      <tr>
+         <td>Política de seguridad</td>
+         <td>servicio web con un endpoint de consulta que lea el archivo de usuarios y determine cuales tienen un password asociado que no cumple con las reglas</td>
+         <td><a href="https://github.com/W3-Briel/parcialI-lab" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
 ### ⬇ ***Laboratorio de software***
-<table>
+<table id=6025>
    <thead>
       <tr>
          <th>Título</th>
@@ -171,7 +211,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 </table>
 
 ### ⬇ ***Trabajo de Campo***
-<table>
+<table id=6028>
    <thead>
       <tr>
       <th>Título</th>
