@@ -57,6 +57,26 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
    </tbody>
 </table>
 
+### ⬇ ***Sistemas operativos II***
+<table id=6016>
+   <thead>
+      <tr>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Repositorio</th>
+      <th>Autores</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Delicias Order</td>
+         <td>Proyecto web que digitaliza la administración de un restaurante: gestión de stock, pedidos, productos, usuarios y reportes diarios. Pensado para PyMEs gastronómicas, con un entorno portable, escalable y profesional.</td>
+         <td><a href="https://github.com/brunorios21/proyectoRestaurant_db" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/brunorios21"><img src="https://github.com/brunorios21.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+   </tbody>
+</table>
+
 ### ⬇ ***Paradigmas de Programación***
 <table id=6015>
    <thead>
