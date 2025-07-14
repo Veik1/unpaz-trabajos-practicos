@@ -11,10 +11,10 @@ def check_links(links):
     for url in links:
         try:
             response = requests.head(url, allow_redirects=True, timeout=5)
-            if status == 404:
+            if response.status_code == 404:
                 print(f"Error 404 Not Found: {url}")
             else:
-                print(f"OK: {url} (Status: {status})")
+                print(f"OK: {url} (Status: {response.status_code})")
         except requests.RequestException as e:
             print(f"Error con {url}: {e}")
 
