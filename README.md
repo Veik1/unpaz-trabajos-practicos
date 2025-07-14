@@ -277,36 +277,71 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
    <tbody>
       <tr>
          <td>DELOSCODE</td>
-         <td>Organizacion de compañeros y graduados de LGTI donde procuramos el trabajo de comunidad para realizar soluciones reales en diferentes sectores IT</td>
+         <td>Organización de compañeros y graduados de LGTI donde procuramos el trabajo de comunidad para realizar soluciones reales en diferentes sectores IT</td>
          <td><a href="https://github.com/DelosCode" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td>
+            <a href="https://github.com/DelosCode">
+               <img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/>
+            </a>
+         </td>
       </tr>
       <tr>
          <td>Bubblelos</td>
-         <td>Este proyecto trata la historia de un alien que es atacado mientras exploraba las profundidades del océano, y debe volver a la superficie usando una burbuja como medio para respirar y moverse</td>
+         <td>Este proyecto trata la historia de un alien que es atacado mientras exploraba las profundidades del océano, y debe volver a la superficie usando una burbuja como medio para respirar y moverse.</td>
          <td><a href="https://github.com/NicoJimenez123/bubblelos" title="link al repositorio">link</a></td>
          <td>
-            <div style="display: flex; flex-wrap: wrap; max-width: 110px;">
-               <a href="https://github.com/NicoJimenez123"><img src="https://github.com/NicoJimenez123.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-               <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-               <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-               <a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            </div>
+            <table>
+               <tr>
+                  <td>
+                     <a href="https://github.com/NicoJimenez123">
+                        <img src="https://github.com/NicoJimenez123.png" width="50" height="50" />
+                     </a>
+                  </td>
+                  <td>
+                     <a href="https://github.com/Veik1">
+                        <img src="https://github.com/Veik1.png" width="50" height="50" />
+                     </a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://github.com/W3-Briel">
+                        <img src="https://github.com/W3-Briel.png" width="50" height="50" />
+                     </a>
+                  </td>
+                  <td>
+                     <a href="https://github.com/AxelIbarrola">
+                        <img src="https://github.com/AxelIbarrola.png" width="50" height="50" />
+                     </a>
+                  </td>
+               </tr>
+            </table>
          </td>
       </tr>
       <tr>
          <td>Proyecto de Asistente IA</td>
-         <td>Este proyecto se encuentra orientado al aprendizaje sobre la creación de tu propio asistente de IA</td>
+         <td>Proyecto orientado al aprendizaje sobre la creación de tu propio asistente de IA.</td>
          <td><a href="https://github.com/ucielbustamante/jornada_unpaz" title="link al repositorio">link</a></td>
          <td>
-            <div style="display: flex; flex-wrap: wrap; max-width: 110px;">
-               <a href="https://github.com/ucielbustamante"><img src="https://github.com/ucielbustamante.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-               <a href="https://github.com/IgnacioLCastillo"><img src="https://github.com/IgnacioLCastillo.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            </div>
+            <table>
+               <tr>
+                  <td>
+                     <a href="https://github.com/ucielbustamante">
+                        <img src="https://github.com/ucielbustamante.png" width="50" height="50" />
+                     </a>
+                  </td>
+                  <td>
+                     <a href="https://github.com/IgnacioLCastillo">
+                        <img src="https://github.com/IgnacioLCastillo.png" width="50" height="50" />
+                     </a>
+                  </td>
+               </tr>
+            </table>
          </td>
       </tr>
    </tbody>
 </table>
+
 
 ---
 
