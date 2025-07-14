@@ -286,10 +286,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Este proyecto trata la historia de un alien que es atacado mientras exploraba las profundidades del océano, y debe volver a la superficie usando una burbuja como medio para respirar y moverse</td>
          <td><a href="https://github.com/NicoJimenez123/bubblelos" title="link al repositorio">link</a></td>
          <td>
-            <a href="https://github.com/NicoJimenez123"><img src="https://github.com/NicoJimenez123.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <div style="display: flex; flex-wrap: wrap; max-width: 110px;">
+               <a href="https://github.com/NicoJimenez123"><img src="https://github.com/NicoJimenez123.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+               <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+               <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+               <a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            </div>
          </td>
       </tr>
       <tr>
@@ -297,14 +299,11 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Este proyecto se encuentra orientado al aprendizaje sobre la creación de tu propio asistente de IA</td>
          <td><a href="https://github.com/ucielbustamante/jornada_unpaz" title="link al repositorio">link</a></td>
          <td>
-            <a href="https://github.com/ucielbustamante"><img src="https://github.com/ucielbustamante.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/IgnacioLCastillo"><img src="https://github.com/IgnacioLCastillo.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <div style="display: flex; flex-wrap: wrap; max-width: 110px;">
+               <a href="https://github.com/ucielbustamante"><img src="https://github.com/ucielbustamante.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+               <a href="https://github.com/IgnacioLCastillo"><img src="https://github.com/IgnacioLCastillo.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            </div>
          </td>
-      </tr>
-      <tr>
-         <td>test</td>
-         <td>lorem ipsum dolor sit amet</td>
-         <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas-FailTest" title="link al repositorio">link</a></td>
       </tr>
    </tbody>
 </table>
