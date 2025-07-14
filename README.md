@@ -119,9 +119,27 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>sistema de reserva - buques</td>
          <td><a href="https://github.com/Veik1/TP-POO" title="link al repositorio">link</a></td>
          <td>
-            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/nachoji"><img src="https://github.com/nachoji.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/c137nc"><img src="https://github.com/c137nc.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <table>
+               <tr>
+               <td>
+                  <a href="https://github.com/Veik1">
+                     <img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/>
+                  </a>
+               </td>   
+                  <td>
+                     <a href="https://github.com/nachoji">
+                        <img src="https://github.com/nachoji.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <a href="https://github.com/c137nc">
+                        <img src="https://github.com/c137nc.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+                  </td>
+               </tr>
+            </table>
          </td>
       </tr>
       <tr>
@@ -173,38 +191,56 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>API plan de estudio</td>
          <td><a href="https://github.com/Veik1/TP-LPyL-CoD" title="link al repositorio">link</a></td>
          <td>
-            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/ignacio-leonel"><img src="https://github.com/ignacio-leonel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/sofialvez"><img src="https://github.com/sofialvez.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/SergioRomero92"><img src="https://github.com/SergioRomero92.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <table>
+               <tr>
+                  <td>
+                     <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+                  </td>
+                  <td>
+                    <a href="https://github.com/ignacio-leonel"><img src="https://github.com/ignacio-leonel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+                  </td>
+                </tr>
+               <tr>
+                  <td>
+                     <a href="https://github.com/sofialvez"><img src="https://github.com/sofialvez.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+                  </td>
+                  <td>
+                      <a href="https://github.com/SergioRomero92"><img src="https://github.com/SergioRomero92.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+                  </td>
+                </tr>
+            </table>
          </td>
       </tr>
       <tr>
          <td>Validacion de productos</td>
          <td>Un servidor Express con un endpoint /productos/filtrar que filtre productos de un archivo productos.json, el cual tiene la siguiente estructura</td>
          <td><a href="https://github.com/W3-Briel/unpaz-LPL-validacion-productos" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         <td>
+            <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
          </td>
       </tr>
       <tr>
          <td>Filtros de personajes</td>
          <td>analizador lexíco - Filtros dinámicos sobre un conjunto de personajes</td>
          <td><a href="https://github.com/W3-Briel/unpaz-LPL-filtros_personajes" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         <td>
+            <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
          </td>
       </tr>
       <tr>
          <td>Sistema de Validación de Direcciones para Envíos</td>
          <td>Trabajas en el área de logística de una empresa de e-commerce y debes implementar un sistema para validar direcciones de envío según nuevos estándares de calidad. - Crear un endpoint que identifique direcciones que cumplan TODAS las reglas de validación para envíos prioritarios (las cuales pueden cambiar periódicamente).</td>
          <td><a href="https://github.com/W3-Briel/practica-parcial-lab" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         <td>
+            <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
          </td>
       </tr>
       <tr>
          <td>Política de seguridad</td>
          <td>servicio web con un endpoint de consulta que lea el archivo de usuarios y determine cuales tienen un password asociado que no cumple con las reglas</td>
          <td><a href="https://github.com/W3-Briel/parcialI-lab" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
+         <td>
+            <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="100px" height="100px"/></a>
          </td>
       </tr>
    </tbody>
@@ -252,11 +288,38 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>programa para gestionar vuelos; backend + frontend + docker.</td>
          <td><a href="https://github.com/Veik1/reserva-aviones" title="link al repositorio">link</a></td>
          <td>
-            <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/Martincho83"><img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/Gonzy1992"><img src="https://github.com/Gonzy1992.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/ngi133"><img src="https://github.com/ngi133.png" alt="Foto de perfil" width="50px" height="50px"/></a>
-            <a href="https://github.com/San-romero"><img src="https://github.com/San-romero.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <table>
+               <tr>
+                  <td>
+                     <a href="https://github.com/Veik1">
+                        <img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+                  </td>
+                  <td>
+                     <a href="https://github.com/Martincho83">
+                        <img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+                  </td>
+              </tr>
+               <tr>
+                  <td>
+                     <a href="https://github.com/Gonzy1992">
+                        <img src="https://github.com/Gonzy1992.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+                  </td>
+                  <td>
+                    <a href="https://github.com/ngi133">
+                       <img src="https://github.com/ngi133.png" alt="Foto de perfil" width="50px" height="50px"/>
+                    </a>
+                  </td>
+              </tr>
+               <tr>
+                  <td>
+                     <a href="https://github.com/San-romero">
+                        <img src="https://github.com/San-romero.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     </a>
+               </tr>
+            </table>
          </td>
       </tr>
    </tbody>
