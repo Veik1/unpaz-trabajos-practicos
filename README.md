@@ -249,7 +249,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
       </tr>
       <tr>
          <td>Sistema de gestion de reservas de vuelos</td>
-         <td>programa para gestionar vuelos; backend + frotend + docker.</td>
+         <td>programa para gestionar vuelos; backend + frontend + docker.</td>
          <td><a href="https://github.com/Veik1/reserva-aviones" title="link al repositorio">link</a></td>
          <td>
             <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
@@ -290,6 +290,15 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             <a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="50px" height="50px"/></a>
             <a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="50px" height="50px"/></a>
             <a href="https://github.com/AxelIbarrola"><img src="https://github.com/AxelIbarrola.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+         </td>
+      </tr>
+      <tr>
+         <td>Proyecto de Asistente IA</td>
+         <td>Este proyecto se encuentra orientado al aprendizaje sobre la creación de tu propio asistente de IA</td>
+         <td><a href="https://github.com/ucielbustamante/jornada_unpaz" title="link al repositorio">link</a></td>
+         <td>
+            <a href="https://github.com/ucielbustamante"><img src="https://github.com/ucielbustamante.png" alt="Foto de perfil" width="50px" height="50px"/></a>
+            <a href="https://github.com/IgnacioLCastillo"><img src="https://github.com/IgnacioLCastillo.png" alt="Foto de perfil" width="50px" height="50px"/></a>
          </td>
       </tr>
    </tbody>
