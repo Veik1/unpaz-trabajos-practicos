@@ -301,6 +301,11 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             <a href="https://github.com/IgnacioLCastillo"><img src="https://github.com/IgnacioLCastillo.png" alt="Foto de perfil" width="50px" height="50px"/></a>
          </td>
       </tr>
+      <tr>
+         <td>test</td>
+         <td>lorem ipsum dolor sit amet</td>
+         <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas-FailTest" title="link al repositorio">link</a></td>
+      </tr>
    </tbody>
 </table>
 
