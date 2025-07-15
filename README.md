@@ -19,6 +19,26 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
 
 ## **Licenciatura en Gestion de Tecnologias de la Informacion**
 
+### ⬇ ***Introduccion a la programacion***
+<table id=6003>
+   <thead>
+      <tr>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Repositorio</th>
+      <th>Autores</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Resumen cursada</td>
+         <td>Repositorio documentado que data de la cursada de Introducción a la programación con código comentado (algunos), modelos de examen y practicas</td>
+         <td><a href="https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/MONZONPUNTOEXE"><img src="https://github.com/MONZONPUNTOEXE.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+   </tbody>
+</table>
+
 ### ⬇ ***Algoritmos y programacion***
 <table id=6008>
    <thead>
@@ -402,6 +422,15 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             </table>
          </td>
       </tr>
+      <tr>
+         <td>Pagina LGTI</td>
+         <td>Grupos de whatsapp por materia, y links a comunidad de la carrera LGTI </td>
+         <td><a href="https://comunidad-lgti.streamlit.app/" title="link al repositorio">link</a></td>
+            <td>
+               <a href="https://github.com/MONZONPUNTOEXE">
+                  <img src="https://github.com/MONZONPUNTOEXE.png" width="100" height="100" />
+               </a>
+            </td>
    </tbody>
 </table>
 
