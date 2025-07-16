@@ -371,7 +371,11 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
       <tr>
          <td>Bubblelos</td>
          <td>Este proyecto trata la historia de un alien que es atacado mientras exploraba las profundidades del océano, y debe volver a la superficie usando una burbuja como medio para respirar y moverse.</td>
-         <td><a href="https://github.com/NicoJimenez123/bubblelos" title="link al repositorio">link</a></td>
+            <td>
+               <a href="https://github.com/NicoJimenez123/bubblelos" title="Repositorio en GitHub">GitHub</a>
+               <br><br>
+               <a href="https://nicojimenez.itch.io/bubblelos" title="Página en itch.io">itch.io</a>
+            </td>
          <td>
             <table>
                <tr>
