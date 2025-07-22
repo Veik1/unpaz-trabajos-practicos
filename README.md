@@ -436,7 +436,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
                </a>
             </td>
        <tr>
-          <td>Reserva de hoteles</td>
+          <td>Sistema de recetas</td>
           <td>Sistema de gestión de recetas, Backend hecho con C#. En desarrollo.</td>
           <td><a href="https://github.com/Veik1/Sistema-de-Gestion-de-Recetas" title="link al repositorio">link</a></td>
           <td>
