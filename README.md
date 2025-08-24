@@ -186,6 +186,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/W3-Briel/unpaz-POO-Gestion-Envios" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>Cursos y estudiantes</td>
+         <td>Este proyecto en Java gestiona cursos y estudiantes, permitiendo la creación de diferentes tipos de cursos, la lectura de datos desde archivos, y la interacción con los usuarios para la gestión de cursos</td>
+         <td><a href="https://github.com/W3-Briel/unpaz-POO-Cursos-y-Estudiantes" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
