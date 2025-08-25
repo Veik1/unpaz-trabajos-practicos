@@ -441,15 +441,6 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
                   <img src="https://github.com/MONZONPUNTOEXE.png" width="100" height="100" />
                </a>
             </td>
-       <tr>
-          <td>Sistema de recetas</td>
-          <td>Sistema de gestión de recetas, Backend hecho con C#. En desarrollo.</td>
-          <td><a href="https://github.com/Veik1/Sistema-de-Gestion-de-Recetas" title="link al repositorio">link</a></td>
-          <td>
-             <a href="https://github.com/Veik1">
-                <img src="https://github.com/Veik1.png" alt="Foto de perfil" width="100px" height="100px"/>
-             </a>
-          </td>
        </tr>
    </tbody>
 </table>
